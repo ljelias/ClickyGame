@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgba(234, 252, 135, 0.5);
+    background-size: cover;
+    background-position: center;
+    min-height: 600px;
+}
+
+footer {
+    z-index: 2;
+    height: 33px;
+    width: 100%;
+    background-color: rgba(241, 241, 241, 0.5);
+    padding-top: 10px;
+    padding-right: 30px;
+    position: fixed;
+    bottom: 0;
+    font-size: .8em;
+    font-style: italic;
+    font-weight: 500;
+    text-align: right;
+}

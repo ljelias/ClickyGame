@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "name": "Baby Plankton and Krabs",
+    "image": "./components/Images/duo2.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Frank",
+    "image": "./components/Images/frank.png"
+  },
+  {
+    "id": 3,
+    "name": "Gary",
+    "image": "./components/Images/gary1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Mr. Krabs",
+    "image": "./components/Images/krabs4.png"
+  },
+  {
+    "id": 5,
+    "name": "Patrick",
+    "image": "./components/Images/patrick4.png"
+  },
+  {
+    "id": 6,
+    "name": "Muscle Patrick",
+    "image": "./components/Images/patrick7.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Plankton",
+    "image": "./components/Images/plankton1.png"
+  },
+  {
+    "id": 8,
+    "name": "Plankton",
+    "image": "./components/Images/plankton3.png"
+  },
+  {
+    "id": 9,
+    "name": "Mrs. Puff",
+    "image": "./components/Images/puff1.png"
+  },
+  {
+    "id": 10,
+    "name": "Sandy Cheeks",
+    "image": "./components/Images/sandy1.png"
+  },
+  {
+    "id": 11,
+    "name": "Sponge Bob",
+    "image": "./components/Images/sbob1.png"
+  },
+  {
+    "id": 12,
+    "name": "Sponge Bob",
+    "image": "./components/Images/sbob2.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Squidward",
+    "image": "./src/components/Images/squidw1.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Squidward",
+    "image": "./components/Images/squidw2.png"
+  },
+  {
+    "id": 15,
+    "name": "Patrick Gary and Sponge Bob",
+    "image": "../components/Images/trio.jpg"
+  }
+]

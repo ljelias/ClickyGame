@@ -1,0 +1,11 @@
+.header {
+    position: fixed;
+    top: 0;
+    z-index: 2;
+    padding: 6px 6vw;
+    width: 100%;
+    background-color: rgba(236, 252, 96, 0.568);
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
