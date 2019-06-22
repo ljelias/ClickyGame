@@ -2,76 +2,76 @@
   {
     "id": 1,
     "name": "Baby Plankton and Krabs",
-    "image": "./components/Images/duo2.jpg"
+    "image": "https://ljelias.github.io/ClickyGame/public/images/duo2.jpg"
   },
   {
     "id": 2,
     "name": "Frank",
-    "image": "./components/Images/frank.png"
+    "image": "https://ljelias.github.io/ClickyGame/public/images/frank.png"
   },
   {
     "id": 3,
     "name": "Gary",
-    "image": "./components/Images/gary1.jpg"
+    "image": "https://ljelias.github.io/ClickyGame/public/images/gary1.jpg"
   },
   {
     "id": 4,
     "name": "Mr. Krabs",
-    "image": "./components/Images/krabs4.png"
+    "image": "https://ljelias.github.io/ClickyGame/public/images/krabs4.png"
   },
   {
     "id": 5,
     "name": "Patrick",
-    "image": "./components/Images/patrick4.png"
+    "image": "https://ljelias.github.io/ClickyGame/public/images/patrick4.png"
   },
   {
     "id": 6,
     "name": "Muscle Patrick",
-    "image": "./components/Images/patrick7.jpg"
+    "image": "https://ljelias.github.io/ClickyGame/public/images/patrick7.jpg"
   },
   {
     "id": 7,
     "name": "Plankton",
-    "image": "./components/Images/plankton1.png"
+    "image": "https://ljelias.github.io/ClickyGame/public/images/plankton1.png"
   },
   {
     "id": 8,
     "name": "Plankton",
-    "image": "./components/Images/plankton3.png"
+    "image": "https://ljelias.github.io/ClickyGame/public/images/plankton3.png"
   },
   {
     "id": 9,
     "name": "Mrs. Puff",
-    "image": "./components/Images/puff1.png"
+    "image": "https://ljelias.github.io/ClickyGame/public/images/puff1.png"
   },
   {
     "id": 10,
     "name": "Sandy Cheeks",
-    "image": "./components/Images/sandy1.png"
+    "image": "https://ljelias.github.io/ClickyGame/public/images/sandy1.png"
   },
   {
     "id": 11,
     "name": "Sponge Bob",
-    "image": "./components/Images/sbob1.png"
+    "image": "https://ljelias.github.io/ClickyGame/public/images/sbob1.png"
   },
   {
     "id": 12,
     "name": "Sponge Bob",
-    "image": "./components/Images/sbob2.jpg"
+    "image": "https://ljelias.github.io/ClickyGame/public/images/sbob2.jpg"
   },
   {
     "id": 13,
     "name": "Squidward",
-    "image": "./src/components/Images/squidw1.jpg"
+    "image": "https://ljelias.github.io/ClickyGame/public/images/squidw1.jpg"
   },
   {
     "id": 14,
     "name": "Squidward",
-    "image": "./components/Images/squidw2.png"
+    "image": "https://ljelias.github.io/ClickyGame/public/images/squidw2.png"
   },
   {
     "id": 15,
     "name": "Patrick Gary and Sponge Bob",
-    "image": "../components/Images/trio.jpg"
+    "image": "https://ljelias.github.io/ClickyGame/public/images/trio.jpg"
   }
 ]
